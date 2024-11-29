@@ -11,6 +11,6 @@
 |         6| N30 DC 3V 6V 12V Micro Metalen Tandwiel Motor || nieuw | 0,92€ | 1 | 0,92€ |
 |         7| DC 3V/6V/12V N20 Mini Micro Metal Gear Motor Met Gearwheel DC Motoren || nieuw | 1,99€ | 3 | 5,97€ |
 |         8| Btw van de EPS32 en de motoren  ||/| 7,93€ | 1 | 7,93€ |
-|         9| HC-05 || recup |/| 1 |/|
-|         10| Wiel || recup |/| 2 |/|
+|         9| Wiel || recup |/| 2 |/|
+|         10| L293B || nieuw | 5,00€ | 1 | 5,00€  
 
