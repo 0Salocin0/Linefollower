@@ -1,5 +1,6 @@
 # Instructable
 Instructable: 
+
 o) Locaties van onderdelen & montage van de robot:
 -> In de bijlage voeg ik mijn "carrosserie" toe die geprint is met SolidWorks, zodat je een idee krijgt van wat ik heb gebruikt. Ik heb een klein breadboard aan de bovenkant van de carrosserie bevestigd. De batterijen heb ik aan de binnenkant vastgemaakt om het gewicht beter te verdelen en te voorkomen dat alles volledig achteraan zit. De motoren heb ik met secondelijm aan de onderkant bevestigd, en de sensor heb ik aan de voorkant aan de onderzijde geplaatst, zodat deze het parcours kan detecteren. Daarnaast heb ik een knop toegevoegd als derde punt, zodat de auto soepel over de grond kan glijden.
 
