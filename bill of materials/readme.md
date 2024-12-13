@@ -9,7 +9,6 @@
 |         4| 1,5 V oplaadbare batterij, AAA3800 + AA 3000 mAh + oplader ||nieuw |16,79€| 1 |16,79€|
 |         5| N30 DC 3V 6V 12V Micro Metalen Tandwiel Motor || nieuw | 0,92€ | 1 | 0,92€ |
 |         6| DC 3V/6V/12V N20 Mini Micro Metal Gear Motor Met Gearwheel DC Motoren || nieuw | 1,99€ | 3 | 5,97€ |
-|         7| Btw van de EPS32 en de motoren  ||/| 7,93€ | 1 | 7,93€ |
-|         8| Wiel || recup |/| 2 |/| 
-|         9| L293B || nieuw | 5,00€ | 1 | 5,00€  
+|         7| Wiel || recup |/| 2 |/| 
+|         8| L293B || nieuw | 5,00€ | 1 | 5,00€  
 
