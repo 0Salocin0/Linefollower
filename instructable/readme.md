@@ -20,5 +20,4 @@ Ik ben begonnen met het testen van de motoren. Hiervoor heb ik een code geschrev
 Nadat dit gelukt was, liet ik de carrosserie printen en heb ik alle onderdelen samengevoegd. Dit proces wordt beschreven bij Locaties van de onderdelen & montage van de robot. Vervolgens heb ik de benodigde code aangepast om de auto te laten rijden en deze geüpload naar de ESP32.
 
 
-### stap 1
-bestel alle componenten uit de bill of materials  
+
