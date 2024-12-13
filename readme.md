@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP32
 
-motors: 
+motors: DC 3V/6V/12V N20 Mini Micro Metal Gear Motor Met Gearwheel
 
-h-bridge:
+h-bridge: L293B
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: alkaline battery rechargeable
 
-wireless communication:
+wireless communication: Met de ESP32
 
-distance sensor - motors:
+distance sensor - motors: / 
 
 weight:
 
-speed: 
+speed: 0,233 m/s
 
